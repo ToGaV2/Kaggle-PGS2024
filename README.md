@@ -6,7 +6,7 @@ Kaggle Playground Competition Notebooks from Series 4 (2024). These competitions
 - Episode 9: Regression of Used Car Prices (Ranked 209 / 3066 Teams - Top 7%)
 - Episode 10: Loan Approval Prediction (Ranked 205 / 3858 Teams - Top 6%)
 - Episode 11: Exploring Mental Health Data (Ranked 57 / 2685 Teams - Top 3%)
-- Episode 12: Regression with an Insurance Dataset (Competition Underway)
+- Episode 12: Regression with an Insurance Dataset (Ranked 135 / 2390 - Top 6%)
   
 ## Scoring:
 The competition datasets are typically between 200,000 and 500,000 observations. The training set is roughly 60% to 75% of the generated data, and the competition is scored on the remainder. During the competition the public leaderboard is comprised on roughly 1/5th of the hidden testing set. The private leaderboard consists of the remaining 4/5th of the testing set. The final results come from the private leaderboard and are posted after the competition. Said another way, the private leaderboard is used to determine the winner and final rankings.
